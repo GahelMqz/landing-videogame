@@ -37,7 +37,7 @@ const storyData = [
 
 const StorySection = () => {
   return (
-    <section className="py-20 sm:py-32 bg-gray-50 dark:bg-gray-900 overflow-hidden">
+    <section className="py-32 md:py-40 bg-gray-50 dark:bg-gray-900 overflow-hidden">
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
         
         {/* Título Principal */}

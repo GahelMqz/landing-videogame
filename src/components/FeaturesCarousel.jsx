@@ -54,7 +54,7 @@ const FeatureCarousel = () => {
   if (!activeFeature) return null;
 
   return (
-    <section className="py-14 md:py-20 bg-gray-900 text-white overflow-hidden">
+    <section className="py-32 md:py-40 bg-gray-900 text-white overflow-hidden">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         
         {/* Título y Descripción de la Sección */}

@@ -18,7 +18,7 @@ const AboutSection = () => {
   ];
 
   return (
-    <section className="bg-gray-900 text-white py-16 md:py-24 px-4 sm:px-6 lg:px-8">
+    <section className="bg-gray-900 text-white py-32 md:py-40 px-4 sm:px-6 lg:px-8">
       <div className="max-w-7xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-12 md:gap-16 lg:gap-24 items-center">
 
         {/* Columna Izquierda: Introducción y Botón */}
